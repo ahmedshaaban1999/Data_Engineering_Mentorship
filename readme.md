@@ -1,6 +1,6 @@
 # Learning Resources
 
-This repository contains a list of learning resources organized by levels for various topics. Choose the level that matches your skill and knowledge to find appropriate resources for your learning journey.
+This repository contains a list of learning resources organized by levels for various topics. Choose the level that matches your skill and knowledge to find appropriate resources for your learning journey. You don't need to finish all the resources in each topic, they have the same information but in different styles so everyone can choose what works for him/her best.
 
 ![image](https://github.com/ahmedshaaban1999/Data_Engineering_Mentorship/assets/16938470/6444176f-cd80-419d-9ddc-36cc6f455eff)
 
