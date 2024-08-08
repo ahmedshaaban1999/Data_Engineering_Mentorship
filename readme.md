@@ -60,6 +60,10 @@ This repository contains a list of learning resources organized by levels for va
 
 - [MySQL Full Course 2023 | MySQL Tutorial For Beginners | SQL Full Course | SQL Training | Simplilearn](https://www.youtube.com/watch?v=SycDH3NSJUU)
 
+### Data Quality
+- [How And Why Data Engineers Need To Care About Data Quality Now And How To Implement It - Seattle Data Guy](https://www.youtube.com/watch?v=wvUiRHd47M0)
+- [Understanding Data Quality: Ensuring Accuracy, Reliability, and Consistency](https://www.youtube.com/watch?v=MnxE8_FK-Dc)
+
 ## Level 2
 
 ### Version Control
