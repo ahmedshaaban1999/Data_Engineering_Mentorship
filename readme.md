@@ -13,7 +13,7 @@ This repository contains a list of learning resources organized by levels for va
 - [ Python - The Basics - Part 2 | السوعبان صديقى ] (https://www.youtube.com/watch?v=mlbe7Vxr7yA)
 
 ### SQL
-
+- [DataLemur](https://datalemur.com/sql-tutorial) (Learn & Practice)
 - [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) (Practice)
 - [SQLBolt](https://sqlbolt.com/lesson/introduction)
 - [Mode SQL Tutorial](https://mode.com/sql-tutorial/introduction-to-sql/)
@@ -34,12 +34,14 @@ This repository contains a list of learning resources organized by levels for va
 ### Docker
 
 - [Docker سلسلة تعلم](https://www.youtube.com/playlist?list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ)
+- [Docker Practical Course In Arabic](https://www.youtube.com/watch?v=tHP5IWfqPKk&list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR)
 - [Docker Essentials](https://cognitiveclass.ai/courses/docker-essentials)
 - [Working with Containers, Docker, and the IBM Cloud Container Registry](https://cognitiveclass.ai/courses/course-v1:IBM+GPXX09B2EN+v1)
 
 ### Spark
 
 - [Spark Foundation Training](https://www.learningjournal.guru/courses/spark/spark-foundation-training/)
+- [Pyspark In Arabic](https://youtube.com/playlist?list=PLJM7jJIw2GC2tPeonyPveb7Y9AggQSGuo&feature=shared)
 - [Apache Spark & Scala Tutorial Videos (2022 Updated)](https://www.youtube.com/playlist?list=PLEiEAq2VkUUK3tuBXyd01meHuDj7RLjHv)
 - [Spark Fundamentals](https://cognitiveclass.ai/courses/what-is-spark)
 - [SparkByExamples - Spark Tutorials](https://sparkbyexamples.com/pyspark-tutorial/)
