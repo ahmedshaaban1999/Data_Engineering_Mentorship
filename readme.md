@@ -9,8 +9,8 @@ This repository contains a list of learning resources organized by levels for va
 ### Python
 
 - [Python Basics for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
-- [ تعليم الألة , القسم الثالث بايثون ] (https://www.youtube.com/playlist?list=PL6-3IRz2XF5UM-FWfQeF1_YhMMa12Eg3s)
-- [ Python - The Basics - Part 2 | السوعبان صديقى ] (https://www.youtube.com/watch?v=mlbe7Vxr7yA)
+- [ تعليم الألة , القسم الثالث بايثون ](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UM-FWfQeF1_YhMMa12Eg3s)
+- [ Python - The Basics - Part 2 | السوعبان صديقى ](https://www.youtube.com/watch?v=mlbe7Vxr7yA)
 
 ### SQL
 
@@ -51,6 +51,7 @@ This repository contains a list of learning resources organized by levels for va
 - "Hadoop: The Definitive Guide 4th Edition" (Part 1 only)
 - [Hadoop Foundation Training](https://www.learningjournal.guru/courses/hadoop/hadoop-foundation-training/) (Hadoop basics only)
 - [Introduction to Hadoop](https://cognitiveclass.ai/courses/introduction-to-hadoop)
+- [Big Data بالعربى](https://www.youtube.com/playlist?list=PLrooD4hY1QqAK5pbBpcthLuMa-cXnXJLE)
 
 ### Hive
 
@@ -69,11 +70,13 @@ This repository contains a list of learning resources organized by levels for va
 ### Version Control
 
 - [Atlassian Git Tutorial](https://www.atlassian.com/git)
+- [Big Data بالعربى](https://www.youtube.com/watch?v=Q6G-J54vgKc)
 
 ### Linux
 
 - [Getting started with Linux Terminal Commands](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX06VPEN+v1)
 - [Bash Scripting Tutorial for Beginners](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)
+- [Big Data بالعربى](https://www.youtube.com/watch?v=gojeTqXdBH0)
 
 ### File Formats
 
