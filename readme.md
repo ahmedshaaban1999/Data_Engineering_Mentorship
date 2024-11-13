@@ -30,6 +30,7 @@ This repository contains a list of learning resources organized by levels for va
 - [Bank Data Model](https://dwbi1.wordpress.com/2012/04/28/bank-data-model/)
 - [Data Warehousing Tutorial Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOEDSc5QEbI8WYVV_EbWKJwX)
 - [Garage Education](https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF)
+- [Data Modeling: One Big Table vs Kimball vs Relational for data engineers](https://www.youtube.com/watch?v=ltQgbSs99WU)
 
 ### Docker
 
