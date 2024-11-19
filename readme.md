@@ -6,6 +6,8 @@ This repository contains a list of learning resources organized by levels for va
 
 ## Level 1
 
+[Proposed Timeline](level_1/readme.md)
+
 ### Python
 
 - [Python Basics for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
