@@ -16,12 +16,11 @@ Ecommerce data set on git project folder
     2.	What time users are most likely make an order or using the ecommerce app?
     3.	What is the preferred way to pay in the ecommerce?
     4.	How many installment is usually done when paying in the ecommerce?
-    5.	What is the average spending time for user for our ecommerce?
-    6.	What is the frequency of purchase on each state?
-    7.	Which logistic route that have heavy traffic in our ecommerce?
-    8.	How many late delivered order in our ecommerce? Are late order affecting the customer satisfaction?
-    9.	How long are the delay for delivery / shipping process in each state?
-    10.	How long are the difference between estimated delivery time and actual delivery time in each state?
+    5.	What is the frequency of purchase on each state?
+    6.	Which logistic route that have heavy traffic in our ecommerce?
+    7.	How many late delivered order in our ecommerce? Are late order affecting the customer satisfaction?
+    8.	How long are the delay for delivery / shipping process in each state?
+    9.	How long are the difference between estimated delivery time and actual delivery time in each state?
 
 ## Key Deliverables:
 -	DW schema
