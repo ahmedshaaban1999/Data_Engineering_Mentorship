@@ -82,6 +82,7 @@ This repository contains a list of learning resources organized by levels for va
 - [Getting started with Linux Terminal Commands](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX06VPEN+v1)
 - [Bash Scripting Tutorial for Beginners](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)
 - [Big Data بالعربى](https://www.youtube.com/watch?v=gojeTqXdBH0)
+- [Linux Crash Course](https://www.youtube.com/playlist?list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW)
 
 ### File Formats
 
