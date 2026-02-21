@@ -121,6 +121,7 @@ This repository contains a list of learning resources organized by levels for va
 
 - [Intro into Networking Fundamentals](https://www.youtube.com/watch?v=6hPMdpk9qA4&list=PLTk5ZYSbd9Mi_ya5tVFD8NFfU1YZOyml1)
 - [CCNA 200-301 - Arabic  المنهج الجديد شبكات بالعربي](https://www.youtube.com/playlist?list=PLZmPGUyBFvUrvoa-NYzcUWFpxoZR11id_)
+- [Computer Networking Fundamentals Course](https://www.youtube.com/watch?v=fQbBPa0ADvs)
 
 ### Cloud
 
